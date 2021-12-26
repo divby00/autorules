@@ -1,4 +1,4 @@
-# autorules
+# Autorules
 Small script to prepare basic LDtk autorules from Tilesetter blob output image
 
 ## Usage
@@ -10,3 +10,5 @@ Example:
 The PNG is expected to be on the following format:
 
 ![Blob tileset from Tilesetter](https://user-images.githubusercontent.com/7277786/147404411-9b9a40fc-84e4-4c8e-8984-ff6293cf562b.png)
+
+The script output will be a file called 'output.ldtk', you can open it with LDtk.
