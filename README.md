@@ -8,3 +8,5 @@ Example:
   autorules.py -t tileset.png
   
 The PNG is expected to be on the following format:
+
+https://user-images.githubusercontent.com/7277786/147404411-9b9a40fc-84e4-4c8e-8984-ff6293cf562b.png
